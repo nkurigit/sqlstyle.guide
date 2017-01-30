@@ -1,0 +1,3 @@
+CNAME merge=ours
+REAMDME.md merge=ours
+_layouts/default.html merge=ours
